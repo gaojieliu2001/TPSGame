@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{1EB65553-476F-8817-0972-EBB694D28DC9}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "TPSGame",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
